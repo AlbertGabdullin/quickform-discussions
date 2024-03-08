@@ -28,7 +28,7 @@ If you've encountered a bug, we encourage you to report it to help us improve Qu
 
 We're always looking for ways to make QuickForm better. If you have an idea for a new feature or an improvement, we'd love to hear from you:
 
-- **Submit a Feature Request**: Use our [GitHub Issues](https://github.com/AlbertGabdullin/quickform-discussions/issues) page to submit a feature request. Describe your idea in detail and explain how it would benefit users of QuickForm.
+- **Submit a Feature Request**: Use our [GitHub Discussions](https://github.com/AlbertGabdullin/quickform-discussions/discussions) page to submit a feature request. Describe your idea in detail and explain how it would benefit users of QuickForm.
 
 ## Documentation
 

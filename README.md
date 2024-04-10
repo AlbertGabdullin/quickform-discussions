@@ -1,6 +1,6 @@
 # Support
 
-Welcome to the Support page for [QuickForm - Autofill Forms chrome extension](https://chromewebstore.google.com/detail/quickform/hmbnbbbknglecphfogchkhpdjiodfclh?hl=en). Whether you're encountering a bug, have a feature request, or need guidance on how to utilize [QuickForm](https://chromewebstore.google.com/detail/quickform/hmbnbbbknglecphfogchkhpdjiodfclh?hl=en) most effectively, we're here to assist. Below you'll find a range of resources designed to help you get the support you need.
+Welcome to the Support page for [QuickForm - Autofill Forms chrome extension](https://quickform.pro). Whether you're encountering a bug, have a feature request, or need guidance on how to utilize [QuickForm](https://quickform.pro) most effectively, we're here to assist. Below you'll find a range of resources designed to help you get the support you need.
 
 ## Table of Contents
 
